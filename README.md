@@ -1,7 +1,6 @@
 # Konzeption und prototypische Implementierung eines leistungsoptimierten Archivierungssystems
-Masterthesis
-Diese Readme Datei gliedert sich in vier Punkte:
-- Einrichtung von Eclipse und mithengende Komponente
+Im Rahmen der Masterthesis wurde ein Archivierungsverfahren prototypisch implementiert. Alle Dateien inklusive der Java-Klassen sowie auch die Sql-Scripte die genutzt wurden, sind in diesem Projekt hinterlegt. Um einen einfacheren Start zu bekommen, die unterschieldichen Komponente miteinander kommunizieren zu lassen wurde diese Readme, die sich in folgenden in vier Punkte gleidert, erstellt:
+- Einrichtung von Eclipse
 - Erklärung zu den in Java/Hibernate enthaltenen Klassen
 - Vorgehen diese Implementierung zu starten
 - Hinweise
@@ -33,5 +32,5 @@ Hinweise:
 - Der SQL Data Generator ist nur notwendig wenn im Datenmodell Datensätze erzeugt werden sollen, die realistisch sind. In der TestBean.Java ist eine Methode erzeugeTestDaten() mit dieser das Datenmodell mit Werten befüllt werden kann. 
 - Der Ordner SQL enthällt weitere Dateien welche genutzt werden können um sich beispielsweise saubere Views anzeigen zu lassen.
 
-Author
+Autor
 Leonard Tutzauer
