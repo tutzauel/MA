@@ -7,11 +7,11 @@ Im Rahmen der Masterthesis wurde unteranderem ein Archivierungsverfahren prototy
 
 Einrichtung:
 - Download Eclipse: eclipse_photon_x64 (https://www.eclipse.org/)
-- Download Java runtime: jre1.8.0_91 (https://www.eclipse.org/)
+- Download Java runtime: jre1.8.0_91 (https://www.java.com/de/)
 - Download Enterprise Application Plattform: boss-eap-7.0.8 (https://www.redhat.com/en)
 - Classpath's setzen
-- Workspace importieren: ../Java.zip
-- Datenbank Konfiguration in der Standalone.xml in Zeile: 380 - 403 anpassen (jboss-eap-7.0.8\standalone\configuration\standalone.xml)
+- Workspace importieren (../Java.zip)
+- Datenbank Konfiguration in der Standalone.xml in Zeile: 380 - 403 anpassen (../jboss-eap-7.0.8\standalone\configuration\standalone.xml)
 
 Java/Hibernate
 - Klasse Orders, OrderItem, Product und Customer werden in die Datenbank abgebildet
