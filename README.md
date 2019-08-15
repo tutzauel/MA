@@ -1,5 +1,5 @@
 # Konzeption und prototypische Implementierung eines leistungsoptimierten Archivierungssystems
-Im Rahmen der Masterthesis wurde ein Archivierungsverfahren prototypisch implementiert. Alle Dateien inklusive der Java-Klassen sowie auch die Sql-Scripte die genutzt wurden, sind in diesem Projekt hinterlegt. Um einen einfacheren Start zu bekommen, die unterschieldichen Komponente miteinander kommunizieren zu lassen wurde diese Readme, die sich in folgenden in vier Punkte gleidert, erstellt:
+Im Rahmen der Masterthesis wurde unteranderem ein Archivierungsverfahren prototypisch implementiert. Alle Dateien inklusive der Java-Klassen sowie auch die Sql-Scripte die genutzt wurden, sind in diesem Projekt hinterlegt. Um einen einfacheren Start zu bekommen, die unterschieldichen Komponente miteinander kommunizieren zu lassen wurde diese Readme, die sich in folgenden in vier Punkte gleidert, erstellt:
 - Einrichtung von Eclipse
 - Erklärung zu den in Java/Hibernate enthaltenen Klassen
 - Vorgehen diese Implementierung zu starten
